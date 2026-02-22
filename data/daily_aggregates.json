@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T15:13:57.433523+00:00",
+  "generated_at": "2026-02-22T15:14:07.167447+00:00",
   "years": {
     "2011": {
       "Workout": {
@@ -25837,6 +25837,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1802.5679931640625
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "21945053322"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1805.365966796875
         }
       },
       "VirtualRun": {
@@ -25929,6 +25938,15 @@
           "distance": 9310.0,
           "elevation_gain": 0.0,
           "moving_time": 2999.240999996662
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "21946674539"
+          ],
+          "count": 1,
+          "distance": 9560.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3118.0
         }
       },
       "Walk": {
@@ -26193,6 +26211,24 @@
           "distance": 3848.7301025390625,
           "elevation_gain": 15.890000015497208,
           "moving_time": 3052.0
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "21945052830"
+          ],
+          "count": 1,
+          "distance": 1772.5899658203125,
+          "elevation_gain": 9.029999999329448,
+          "moving_time": 1233.0
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "21945053824"
+          ],
+          "count": 1,
+          "distance": 2244.330078125,
+          "elevation_gain": 2.219999998807907,
+          "moving_time": 1794.0
         }
       },
       "WeightTraining": {
@@ -26341,6 +26377,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3125.777099609375
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "21945054345"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3313.43505859375
         }
       }
     }

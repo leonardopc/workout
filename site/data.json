@@ -27620,6 +27620,51 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/21917021501",
       "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 8,
+      "name": "Rastatt Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/21945052830",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 18,
+      "name": "Indoor Cycling",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/21945053322",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 16,
+      "name": "Rastatt Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/21945053824",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 18,
+      "name": "Yoga",
+      "subtype": "yoga",
+      "type": "Yoga",
+      "url": "https://connect.garmin.com/modern/activity/21945054345",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 10,
+      "name": "Longo FC",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/21946674539",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53459,6 +53504,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1802.5679931640625
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "21945053322"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1805.365966796875
         }
       },
       "VirtualRun": {
@@ -53551,6 +53605,15 @@
           "distance": 9310.0,
           "elevation_gain": 0.0,
           "moving_time": 2999.240999996662
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "21946674539"
+          ],
+          "count": 1,
+          "distance": 9560.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3118.0
         }
       },
       "Walk": {
@@ -53815,6 +53878,24 @@
           "distance": 3848.7301025390625,
           "elevation_gain": 15.890000015497208,
           "moving_time": 3052.0
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "21945052830"
+          ],
+          "count": 1,
+          "distance": 1772.5899658203125,
+          "elevation_gain": 9.029999999329448,
+          "moving_time": 1233.0
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "21945053824"
+          ],
+          "count": 1,
+          "distance": 2244.330078125,
+          "elevation_gain": 2.219999998807907,
+          "moving_time": 1794.0
         }
       },
       "WeightTraining": {
@@ -53963,12 +54044,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3125.777099609375
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "21945054345"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3313.43505859375
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/a60ad1ae-377b-4d97-9d3f-bdc234a25fae",
-  "generated_at": "2026-02-21T15:13:57.484891+00:00",
+  "generated_at": "2026-02-22T15:14:07.222777+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/a60ad1ae-377b-4d97-9d3f-bdc234a25fae",
   "repo": "leonardopc/workout",

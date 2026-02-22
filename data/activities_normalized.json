@@ -39895,5 +39895,70 @@
     "start_date_local": "2026-02-19T11:34:49",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 1772.5899658203125,
+    "elevation_gain": 9.029999999329448,
+    "id": "21945052830",
+    "moving_time": 1233.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-02-20T08:18:41",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21945053322",
+    "moving_time": 1805.365966796875,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-02-20T18:15:34",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 2244.330078125,
+    "elevation_gain": 2.219999998807907,
+    "id": "21945053824",
+    "moving_time": 1794.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-02-21T16:25:03",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21945054345",
+    "moving_time": 3313.43505859375,
+    "name": "Yoga",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-02-21T18:18:07",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 9560.0,
+    "elevation_gain": 0.0,
+    "id": "21946674539",
+    "moving_time": 3118.0,
+    "name": "Longo FC",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-02-22T10:32:36",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
