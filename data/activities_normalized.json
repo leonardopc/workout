@@ -39960,5 +39960,70 @@
     "start_date_local": "2026-02-22T10:32:36",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 2184.8701171875,
+    "elevation_gain": 5.340000003576279,
+    "id": "21968291751",
+    "moving_time": 1833.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-02-22T15:45:20",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 2175.280029296875,
+    "elevation_gain": 10.8299999833107,
+    "id": "21968431921",
+    "moving_time": 1725.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-02-23T17:10:03",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21968432306",
+    "moving_time": 2950.1279296875,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-02-23T18:05:48",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 1665.719970703125,
+    "elevation_gain": 8.090000003576279,
+    "id": "21968432739",
+    "moving_time": 1255.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-02-24T07:40:28",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 5458.93017578125,
+    "elevation_gain": 4.200000002980232,
+    "id": "21968433128",
+    "moving_time": 1858.8790000081062,
+    "name": "Karlsruhe - Intervalado",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-02-24T11:53:29",
+    "type": "Run",
+    "year": 2026
   }
 ]
