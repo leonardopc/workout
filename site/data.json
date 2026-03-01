@@ -27746,6 +27746,69 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/21994929863",
       "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 18,
+      "name": "Rastatt Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22023493036",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 16,
+      "name": "Rastatt Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22023494094",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 18,
+      "name": "Yoga",
+      "subtype": "yoga",
+      "type": "Yoga",
+      "url": "https://connect.garmin.com/modern/activity/22023496095",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 16,
+      "name": "Rastatt Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22023499196",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 17,
+      "name": "Jump Rope",
+      "subtype": "jump_rope",
+      "type": "jump_rope",
+      "url": "https://connect.garmin.com/modern/activity/22023501878",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 17,
+      "name": "Indoor Cycling",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/22023505346",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 11,
+      "name": "Rastatt - Longo FC c/ estimulo",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22023512335",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53550,12 +53613,22 @@
         },
         "2026-02-26": {
           "activity_ids": [
-            "21994929863"
+            "21994929863",
+            "22023493036"
+          ],
+          "count": 2,
+          "distance": 8333.519989013672,
+          "elevation_gain": 3.119999997317791,
+          "moving_time": 2591.0
+        },
+        "2026-03-01": {
+          "activity_ids": [
+            "22023512335"
           ],
           "count": 1,
-          "distance": 7830.0,
-          "elevation_gain": 2.119999997317791,
-          "moving_time": 2406.0
+          "distance": 10886.509765625,
+          "elevation_gain": 19.12999999523163,
+          "moving_time": 3600.5419921875
         }
       },
       "VirtualRide": {
@@ -53612,6 +53685,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1805.365966796875
+        },
+        "2026-02-28": {
+          "activity_ids": [
+            "22023505346"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1203.125
         }
       },
       "VirtualRun": {
@@ -54032,6 +54114,24 @@
           "distance": 3897.18994140625,
           "elevation_gain": 11.790000021457672,
           "moving_time": 3039.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "22023494094"
+          ],
+          "count": 1,
+          "distance": 2165.580078125,
+          "elevation_gain": 3.209999993443489,
+          "moving_time": 1842.0
+        },
+        "2026-02-28": {
+          "activity_ids": [
+            "22023499196"
+          ],
+          "count": 1,
+          "distance": 2218.68994140625,
+          "elevation_gain": 4.959999978542328,
+          "moving_time": 1780.0
         }
       },
       "WeightTraining": {
@@ -54207,12 +54307,32 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3313.43505859375
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "22023496095"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5986.23193359375
+        }
+      },
+      "jump_rope": {
+        "2026-02-28": {
+          "activity_ids": [
+            "22023501878"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 416.760009765625
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/a60ad1ae-377b-4d97-9d3f-bdc234a25fae",
-  "generated_at": "2026-02-28T15:11:00.424814+00:00",
+  "generated_at": "2026-03-01T15:12:20.854183+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/a60ad1ae-377b-4d97-9d3f-bdc234a25fae",
   "repo": "leonardopc/workout",
