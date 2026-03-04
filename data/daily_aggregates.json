@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T15:36:51.673932+00:00",
+  "generated_at": "2026-03-04T15:28:18.548198+00:00",
   "years": {
     "2011": {
       "Workout": {
@@ -25818,6 +25818,15 @@
           "distance": 10886.509765625,
           "elevation_gain": 19.12999999523163,
           "moving_time": 3600.5419921875
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22058646111"
+          ],
+          "count": 1,
+          "distance": 7614.43994140625,
+          "elevation_gain": 7.620000004768372,
+          "moving_time": 2478.0
         }
       },
       "VirtualRide": {
@@ -26321,6 +26330,33 @@
           "distance": 2218.68994140625,
           "elevation_gain": 4.959999978542328,
           "moving_time": 1780.0
+        },
+        "2026-03-01": {
+          "activity_ids": [
+            "22058643680"
+          ],
+          "count": 1,
+          "distance": 2206.18994140625,
+          "elevation_gain": 4.230000004172325,
+          "moving_time": 1825.0
+        },
+        "2026-03-02": {
+          "activity_ids": [
+            "22058644166"
+          ],
+          "count": 1,
+          "distance": 2214.989990234375,
+          "elevation_gain": 3.119999997317791,
+          "moving_time": 1818.0
+        },
+        "2026-03-03": {
+          "activity_ids": [
+            "22058645189"
+          ],
+          "count": 1,
+          "distance": 2213.590087890625,
+          "elevation_gain": 6.759999990463257,
+          "moving_time": 1764.0
         }
       },
       "WeightTraining": {
@@ -26431,6 +26467,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1979.926025390625
+        },
+        "2026-03-02": {
+          "activity_ids": [
+            "22058644631"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3990.242919921875
         }
       },
       "Yoga": {

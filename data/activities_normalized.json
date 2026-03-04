@@ -40168,5 +40168,70 @@
     "start_date_local": "2026-03-01T11:22:07",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 2206.18994140625,
+    "elevation_gain": 4.230000004172325,
+    "id": "22058643680",
+    "moving_time": 1825.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-01T16:23:14",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 2214.989990234375,
+    "elevation_gain": 3.119999997317791,
+    "id": "22058644166",
+    "moving_time": 1818.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-02T17:02:18",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22058644631",
+    "moving_time": 3990.242919921875,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-03-02T18:49:41",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 2213.590087890625,
+    "elevation_gain": 6.759999990463257,
+    "id": "22058645189",
+    "moving_time": 1764.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-03T16:16:08",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 7614.43994140625,
+    "elevation_gain": 7.620000004768372,
+    "id": "22058646111",
+    "moving_time": 2478.0,
+    "name": "Rastatt - Continuo Tempo",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-03T18:14:36",
+    "type": "Run",
+    "year": 2026
   }
 ]
