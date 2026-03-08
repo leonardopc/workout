@@ -40246,5 +40246,83 @@
     "start_date_local": "2026-03-05T11:42:27",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 2220.070068359375,
+    "elevation_gain": 4.769999980926514,
+    "id": "22100072944",
+    "moving_time": 1748.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-05T17:18:23",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 2202.6201171875,
+    "elevation_gain": 4.1099999994039536,
+    "id": "22100077318",
+    "moving_time": 1697.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-06T17:26:37",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22100081789",
+    "moving_time": 2667.58203125,
+    "name": "Yoga",
+    "raw_activity_type": "yoga",
+    "raw_type": "yoga",
+    "start_date_local": "2026-03-06T18:28:08",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 2193.010009765625,
+    "elevation_gain": 4.200000002980232,
+    "id": "22100087833",
+    "moving_time": 1788.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-07T16:07:51",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22100088847",
+    "moving_time": 1800.322998046875,
+    "name": "Indoor Cycling",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-03-07T17:31:02",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 10857.8095703125,
+    "elevation_gain": 16.019999999552965,
+    "id": "22101292084",
+    "moving_time": 3599.3459999859333,
+    "name": "Rastatt - Longo FC c/ estimulo",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-08T10:49:47",
+    "type": "Run",
+    "year": 2026
   }
 ]
