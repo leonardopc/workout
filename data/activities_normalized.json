@@ -40324,5 +40324,44 @@
     "start_date_local": "2026-03-08T10:49:47",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 1787.68994140625,
+    "elevation_gain": 3.509999990463257,
+    "id": "22125662953",
+    "moving_time": 1711.0,
+    "name": "Rastatt Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-08T16:28:24",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22125663471",
+    "moving_time": 3221.532958984375,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-03-09T17:23:15",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 8930.08984375,
+    "elevation_gain": 8.639999985694885,
+    "id": "22125664483",
+    "moving_time": 2999.3630000054836,
+    "name": "Karlsruhe - Continuo Tempo",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-10T12:15:06",
+    "type": "Run",
+    "year": 2026
   }
 ]

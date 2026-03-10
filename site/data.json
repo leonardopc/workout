@@ -27917,6 +27917,33 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22101292084",
       "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 16,
+      "name": "Rastatt Walking",
+      "subtype": "walking",
+      "type": "Walk",
+      "url": "https://connect.garmin.com/modern/activity/22125662953",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 17,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22125663471",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 12,
+      "name": "Karlsruhe - Continuo Tempo",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22125664483",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53764,6 +53791,15 @@
           "distance": 10857.8095703125,
           "elevation_gain": 16.019999999552965,
           "moving_time": 3599.3459999859333
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "22125664483"
+          ],
+          "count": 1,
+          "distance": 8930.08984375,
+          "elevation_gain": 8.639999985694885,
+          "moving_time": 2999.3630000054836
         }
       },
       "VirtualRide": {
@@ -54330,6 +54366,15 @@
           "distance": 2193.010009765625,
           "elevation_gain": 4.200000002980232,
           "moving_time": 1788.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "22125662953"
+          ],
+          "count": 1,
+          "distance": 1787.68994140625,
+          "elevation_gain": 3.509999990463257,
+          "moving_time": 1711.0
         }
       },
       "WeightTraining": {
@@ -54449,6 +54494,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3990.242919921875
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "22125663471"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3221.532958984375
         }
       },
       "Yoga": {
@@ -54548,7 +54602,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/a60ad1ae-377b-4d97-9d3f-bdc234a25fae",
-  "generated_at": "2026-03-09T15:45:10.077964+00:00",
+  "generated_at": "2026-03-10T15:48:27.745736+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/a60ad1ae-377b-4d97-9d3f-bdc234a25fae",
   "repo": "leonardopc/workout",
