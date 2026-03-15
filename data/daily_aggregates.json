@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T15:16:52.076433+00:00",
+  "generated_at": "2026-03-15T15:17:46.917109+00:00",
   "years": {
     "2011": {
       "Workout": {
@@ -25854,6 +25854,24 @@
           "distance": 8930.08984375,
           "elevation_gain": 8.639999985694885,
           "moving_time": 2999.3630000054836
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "22179919990"
+          ],
+          "count": 1,
+          "distance": 5357.47021484375,
+          "elevation_gain": 5.870000004768372,
+          "moving_time": 1859.3510000109673
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "22179926912"
+          ],
+          "count": 1,
+          "distance": 10831.4501953125,
+          "elevation_gain": 18.94999998807907,
+          "moving_time": 3599.4110000133514
         }
       },
       "VirtualRide": {
@@ -25928,6 +25946,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1800.322998046875
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "22179923775"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1802.0400390625
         }
       },
       "VirtualRun": {
@@ -26429,6 +26456,24 @@
           "distance": 1787.68994140625,
           "elevation_gain": 3.509999990463257,
           "moving_time": 1711.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "22179920982"
+          ],
+          "count": 1,
+          "distance": 2188.669921875,
+          "elevation_gain": 9.140000000596046,
+          "moving_time": 1777.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "22179924731"
+          ],
+          "count": 1,
+          "distance": 2120.60009765625,
+          "elevation_gain": 2.100000001490116,
+          "moving_time": 1735.0
         }
       },
       "WeightTraining": {
@@ -26640,6 +26685,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2667.58203125
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "22179922729"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7561.51513671875
         }
       },
       "jump_rope": {
